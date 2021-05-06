@@ -8,7 +8,7 @@ Red River Gorge National Geological Area
 
 <https://mad229.github.io/rrg/>
 
-Photographs of Natural Bridge
+## Photographs of Natural Bridge
 
 ![The Motherload](the_motherload.jpg) The Motherload, by Jarek Tuszynski
 

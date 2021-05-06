@@ -13,3 +13,7 @@ Red River Gorge National Geological Area
 ![The Motherload](the_motherload.jpg) The Motherload, by Jarek Tuszynski
 
 ![Natural Bridge](natural_bridge.jpg) Natural Bridge, by Lenore Parr
+
+## Major Arches of Red River Gorge
+
+![Major Arches](rrg_arches.jpg) Major Arches, by Michael Adams

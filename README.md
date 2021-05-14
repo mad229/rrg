@@ -20,7 +20,7 @@ Red River Gorge National Geological Area
 
 ## Louisville, KY
 
-![Louisville, KY](LouisvilleKY.jpg) Louisville Kentucky and the Yum Center by Michael Adams
+![Louisville, KY](LouisvilleKY.JPG) Louisville Kentucky and the Yum Center by Michael Adams
 
 ## Louisville Yum Center
 
